@@ -3,4 +3,4 @@
 
 
 พิมพื
-[work2](first01.py)
+/n [work2](first01.py)
